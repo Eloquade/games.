@@ -1,0 +1,3 @@
+[submodule "PHP-Catalog"]
+	path = PHP-Catalog
+	url = https://github.com/jheavejimenez/PHP-Catalog.git
